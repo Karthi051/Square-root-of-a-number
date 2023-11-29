@@ -37,7 +37,7 @@ print("Square root of the number:",result)
 ```
 
 ## Output:
-![gcd of two number](gcd.png)
+
 ![Alt text](<Screenshot 2023-11-29 233243.png>)
 
 ## Result:
